@@ -23,12 +23,12 @@
 </p>
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=gang577&title=Commits,Experience,Repositories&theme=darkhub" />
+  <img  src="https://github-profile-trophy.vercel.app/?username=gang577&title=Commits,Experience,Repositories&theme=darkhub,margin:auto;" />
 </p>
 
  <h2 align="center">⭐️ My Github Streak Stats:</h2>
 <p align="center">
-  <img  src="https://streak-stats.demolab.com/?user=gang577； margin:auto; " />
+  <img  src="https://streak-stats.demolab.com/?user=gang577" />
 </p>
 
 <h2 align="center">⭐️ My Github Stats:</h2>
