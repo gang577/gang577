@@ -28,7 +28,7 @@
 
  <h2 align="center">⭐️ My Github Streak Stats:</h2>
 <p align="center">
-  <img  src="https://streak-stats.demolab.com/?user=gang577&theme=darkhub" />
+  <img  src="https://streak-stats.demolab.com/?user=gang577&theme=dark" />
 </p>
 
 <h2 align="center">⭐️ My Github Stats:</h2>
