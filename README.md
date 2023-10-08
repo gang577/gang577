@@ -23,7 +23,7 @@
 </p>
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=gang577&title=Commits,Experience,Repositories&theme=darkhub,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
+  <img  src="https://github-profile-trophy.vercel.app/?username=gang577&title=Commits,Experience,Repositories&theme=darkhub" />
 </p>
 
  <h2 align="center">⭐️ My Github Streak Stats:</h2>
