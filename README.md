@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  CHIU CHEN-KANG <br><br><img src="https://img.shields.io/badge/HPCLab-very%20good-2E97A7">  </h1>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 - 💻️ dissertation https://hdl.handle.net/11296/jmz6nf
 
 - 📧 How to reach me aganggggg@gmail.com
