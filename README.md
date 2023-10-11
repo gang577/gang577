@@ -6,6 +6,8 @@
 
 - 🌱 I'm currently learning Deep Learning Algorithm
 
+- Resume https://www.cakeresume.com/chen-kang-chiu
+
 <h2 align="center">📓 Things I Have Ever Learned </h2>  
 <P>               
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
